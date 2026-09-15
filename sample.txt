@@ -1,0 +1,5 @@
+This is the sample.txt file.
+I need to write five lines of text that I wrote myself.
+Today is Monday, September 14th. 
+This assignment is due Thursday, September 17th.
+It is due at exactly 11:00 PM.
