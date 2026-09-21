@@ -1,6 +1,9 @@
 Course: CSCI 6032
+
 Homework: Homework 2
+
 Repository url: https://github.com/enreysen-um/csci6032-hw2-enreysen-um
+
 Host OS: Windows 11
 
 Description:
